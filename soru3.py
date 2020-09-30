@@ -6,4 +6,4 @@ def square_sorter(list):
     print(list)    
 
 numbers = [2, 14, 9, 46, 20]        
-square_sorter(numbers)        
+square_sorter(numbers)    
